@@ -4,6 +4,8 @@
 
 <?php
 echo "My first PHP script!";
+$txt = "PHP";
+echo "I love $txt!";
 ?>
 
 </body>
