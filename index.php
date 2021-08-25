@@ -23,7 +23,7 @@ function myTest() {
 
 myTest();  // run function
 echo $y; // output the new value for variable $y
-?>
+
 ?>
 
 </body>
